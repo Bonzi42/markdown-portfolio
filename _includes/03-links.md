@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[How to teach Git](https://rachelcarmena.github.io/2018/12/12/how-to-teach-git.html)
